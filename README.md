@@ -3,6 +3,8 @@
 ## Project Overview
 This repository contains the code and models for a deep learning project aimed at classifying the emotive states of dogs based on their facial expressions captured in video frames. The project utilizes state-of-the-art convolutional neural networks (ResNet34, ResNet50) and a Vision Transformer (DINOv2) to analyze and predict the emotive states as either positive (anticipation of a reward) or negative (frustration).
 
+[Read more about it here!](https://medium.com/@scampione37/canine-affective-state-classification-a519f46a6bae)
+
 ### Objectives
 - To evaluate the capability of deep learning models to interpret non-human animal emotions.
 - To contribute to the improvement of interspecies communication and enhance understanding of animal emotions.
